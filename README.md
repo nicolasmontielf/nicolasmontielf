@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is **Nico** and I'm from Paraguay.
+My name is **Nico** and I'm from Argentina/Paraguay.
 
 I'm a fullstack engineer with 8 years of experience developing scalable web applications using PHP/Laravel and JavaScript
 ecosystems, with strong focus on ExpressJS, VueJS, Preact, SQL, and NoSQL databases.
